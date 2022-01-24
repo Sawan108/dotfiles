@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sawanchauhanboss@gmail.com
+	name = sawan chauhan
